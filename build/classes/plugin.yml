@@ -1,0 +1,7 @@
+main: at.schni.waypoints.main.Plugin
+name: Waypoints
+version: 1.0
+commands:
+    waypoint:
+        description: Teleportiere dich zu einem Waypoint.
+        aliases: wp
